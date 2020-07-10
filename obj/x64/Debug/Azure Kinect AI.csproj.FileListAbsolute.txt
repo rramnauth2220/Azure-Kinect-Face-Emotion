@@ -1,0 +1,41 @@
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\depthengine_2_0.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\k4a.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\k4arecord.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\k4a.pdb
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\k4arecord.pdb
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Azure Kinect AI.exe.config
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Azure Kinect AI.exe
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Azure Kinect AI.pdb
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Azure.Kinect.Sensor.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Buffers.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Memory.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Azure.Kinect.Sensor.pdb
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Azure.Kinect.Sensor.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Buffers.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Memory.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.csprojAssemblyReference.cache
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\App.g.cs
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI_Content.g.cs
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI_MarkupCompile.cache
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI_MarkupCompile.lref
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\MainWindow.baml
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.g.resources
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure_Kinect_AI.Properties.Resources.resources
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.csproj.GenerateResource.cache
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.csproj.CoreCompileInputs.cache
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.csproj.CopyComplete
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.exe
+C:\Users\rramn\source\repos\Azure Kinect AI\Azure Kinect AI\obj\x64\Debug\Azure Kinect AI.pdb
