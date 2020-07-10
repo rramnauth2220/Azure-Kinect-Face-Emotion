@@ -1,0 +1,17 @@
+﻿<Window x:Class="Azure_Kinect_AI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Azure_Kinect_AI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing" Loaded="Window_LoadedAsync">
+    <Grid>
+		<Image Source="{Binding ImageSource}" Stretch="Fill"/>
+		<StatusBar HorizontalAlignment="Center" Name="statusBar" VerticalAlignment="Center" Background="#0971ce" Foreground="White">
+			<StatusBarItem Content="{Binding StatusText}" FontFamily="Segoe UI"/>
+		</StatusBar>
+	</Grid>
+	
+	
+</Window>
